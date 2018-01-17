@@ -1,2 +1,4 @@
 # git-vvv
-vvv with git 
+vvv with git
+trial branch for comparison
+
